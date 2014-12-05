@@ -1,0 +1,45 @@
+-- VERSION_4
+-- START DISKCACHE
+C:\Users\gen\Documents\GitHub\KdTreeTest\python\.metadata\.plugins\org.eclipse.core.resources\.projects\KdTree\com.python.pydev.analysis\v2_indexcache
+kdtree|1417748751014|C:\Users\gen\Documents\GitHub\KdTreeTest\python\KdTree\kdtree.py
+test|1417749086521|C:\Users\gen\Documents\GitHub\KdTreeTest\python\KdTree\test.py
+-- END DISKCACHE
+-- START DICTIONARY
+9
+1=kdtree
+9=KDTree.__init__
+4=KDTreeNeighbours
+2=test
+7=KDTreeNeighbours.calculate_largest
+6=KDTreeNeighbours.__init__
+5=KDTreeNode
+8=KDTreeNode.__init__
+3=KDTree
+-- END DICTIONARY
+-- START TREE 1
+7
+__a|1|__all__!11@
+__v|1|__version__!11@
+dat|1|data!19@
+kdt|3|KDTree!9@KDTreeNode!9@KDTreeNeighbours!9@
+nea|1|nearest!19@
+squ|1|square_distance!10@
+tre|1|tree!19@
+-- END TREE
+-- START TREE 2
+14
+__i|3|__init__!3&10@__init__!4&10@__init__!5&10@
+add|1|add!4&10@
+cal|1|calculate_largest!4&10@
+con|1|construct_from_data!3&10@
+cur|1|current_best!6&11@
+get|1|get_best!4&10@
+is_|1|is_leaf!5&10@
+lar|2|largest_distance!7&11@largest_distance!6&11@
+lef|1|left!8&11@
+poi|1|point!8&11@
+que|2|query!3&10@query_point!6&11@
+rig|1|right!8&11@
+roo|1|root_node!9&11@
+t|1|t!6&11@
+-- END TREE
